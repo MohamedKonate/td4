@@ -7,3 +7,5 @@ Une librairie permettant d'envoyer des mails aux délégués des promotions d'un
 **Question 1 :**
 Proposez un refactoring de cette librairie pour répondre aux problèmes d'absence de valeur (utiliser l'API Optional).
 Si d'autres parties du code peuvent être améliorées par l'utilisation des principes et APIs vus en cours, procédez aussi à cette amélioration.
+
+Lien : https://github.com/MohamedKonate/td4
